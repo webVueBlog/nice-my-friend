@@ -62,7 +62,7 @@ async function run() {
 <img src="${user.avatar_url}" width="120" />
 
 | Name | Blog | Location |
-| -- | -- | -- | -- | -- |
+| -- | -- | -- |
 | ${user.name || '-' } | [webVueBlog](https://github.com/webVueBlog) | ${user.location || '-' } |
 
 ## Followers <kbd>${followers.length}</kbd>
