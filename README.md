@@ -1,9 +1,9 @@
-# �г����й�ע�ߺ͹�ע��
+# 列出所有关注者和关注者
 
-���ɲ鿴�͹������й�ע�͹�ע��ͨ�� GitHub Action �Զ����¡�
+轻松查看和过滤所有关注和关注。通过 GitHub Action 自动更新。
 
-- ����GitHubĬ�ϵ�follows��following��֧�ַ�ҳ�͹���
-- ��������κ����⣬���һ�������� [issue]
+- 由于GitHub默认的follows和following不支持分页和过滤
+- 如果您有任何问题，请打开一个新问题 [issue]
 
 ## webVueBlog
 
@@ -1578,5 +1578,5 @@
 
 [MIT](https://github.com/webVueBlog/nice-my-friend/blob/master/LICENSE)
 
-Copyright (c) 2022 ������߸ [webVueBlog](https://github.com/webVueBlog)
+Copyright (c) 2022 我是哪吒 [webVueBlog](https://github.com/webVueBlog)
 
