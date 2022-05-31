@@ -1,8 +1,8 @@
-# 列出所有关注者和关注者
+# <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> 我真的会感谢关注！！！
 
-轻松查看和过滤所有关注和关注。通过 GitHub Action 自动更新。
+感谢你曾经来过，很高兴你能关注我 👋
 
-- 由于GitHub默认的follows和following不支持分页和过滤
+- 不管前方的路有多苦，只要走的方向正确，不管多么崎岖不平，都比站在原地更接近幸福
 - 如果您有任何问题，请打开一个新问题 [issue]
 
 ## webVueBlog
@@ -10,7 +10,7 @@
 <img src="https://avatars.githubusercontent.com/u/59645426?v=4" width="120" />
 
 | Name | Blog | Location |
-| -- | -- | -- | -- | -- |
+| -- | -- | -- |
 | 我是哪吒 | [webVueBlog](https://github.com/webVueBlog) | 广东-深圳  |
 
 ## Followers <kbd>126</kbd>
