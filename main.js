@@ -41,12 +41,12 @@ async function run() {
     followers.reverse();
     const following = await queryFollowing();
 
-    const before = `# ÁĞ³öËùÓĞ¹Ø×¢ÕßºÍ¹Ø×¢Õß
+    const before = `# åˆ—å‡ºæ‰€æœ‰å…³æ³¨è€…å’Œå…³æ³¨è€…
 
-ÇáËÉ²é¿´ºÍ¹ıÂËËùÓĞ¹Ø×¢ºÍ¹Ø×¢¡£Í¨¹ı GitHub Action ×Ô¶¯¸üĞÂ¡£
+è½»æ¾æŸ¥çœ‹å’Œè¿‡æ»¤æ‰€æœ‰å…³æ³¨å’Œå…³æ³¨ã€‚é€šè¿‡ GitHub Action è‡ªåŠ¨æ›´æ–°ã€‚
 
-- ÓÉÓÚGitHubÄ¬ÈÏµÄfollowsºÍfollowing²»Ö§³Ö·ÖÒ³ºÍ¹ıÂË
-- Èç¹ûÄúÓĞÈÎºÎÎÊÌâ£¬Çë´ò¿ªÒ»¸öĞÂÎÊÌâ [issue]
+- ç”±äºGitHubé»˜è®¤çš„followså’Œfollowingä¸æ”¯æŒåˆ†é¡µå’Œè¿‡æ»¤
+- å¦‚æœæ‚¨æœ‰ä»»ä½•é—®é¢˜ï¼Œè¯·æ‰“å¼€ä¸€ä¸ªæ–°é—®é¢˜ [issue]
 
 `;
 
@@ -82,7 +82,7 @@ async function run() {
 
 [MIT](https://github.com/webVueBlog/nice-my-friend/blob/master/LICENSE)
 
-Copyright (c) 2022 ÎÒÊÇÄÄß¸ [webVueBlog](https://github.com/webVueBlog)
+Copyright (c) 2022 æˆ‘æ˜¯å“ªå’ [webVueBlog](https://github.com/webVueBlog)
 
 `
     writeFileSync('./README.md', before + middle + end);
