@@ -11,7 +11,7 @@
 
 | Name | Blog | Location |
 | -- | -- | -- |
-| 我是哪吒 | [webVueBlog](https://github.com/webVueBlog) | 广东-深圳  |
+| I am ne zha / Jeskson | [webVueBlog](https://github.com/webVueBlog) | Shenzhen, Guangdong |
 
 ## Followers <kbd>133</kbd>
 
