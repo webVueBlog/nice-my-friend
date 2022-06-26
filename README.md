@@ -991,7 +991,7 @@
   </tr>
 </table>
 
-## Following <kbd>101</kbd>
+## Following <kbd>102</kbd>
 
 <table>
   <tr>
@@ -1593,12 +1593,20 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/NervJS">
+        <img src="https://avatars.githubusercontent.com/u/30794937?v=4" width="50" />
+        <br />
+        NervJS
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/Amour1688">
         <img src="https://avatars.githubusercontent.com/u/31695475?v=4" width="50" />
         <br />
         Amour1688
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/qq449245884">
         <img src="https://avatars.githubusercontent.com/u/35094245?v=4" width="50" />
@@ -1606,7 +1614,6 @@
         qq449245884
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/sunniejs">
         <img src="https://avatars.githubusercontent.com/u/35954879?v=4" width="50" />
@@ -1635,6 +1642,7 @@
         sanyuan0704
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/frontend9">
         <img src="https://avatars.githubusercontent.com/u/41631121?v=4" width="50" />
@@ -1642,7 +1650,6 @@
         frontend9
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/GoodLuckAlien">
         <img src="https://avatars.githubusercontent.com/u/42404666?v=4" width="50" />
@@ -1671,6 +1678,7 @@
         koala-coding
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/XIU2">
         <img src="https://avatars.githubusercontent.com/u/54703944?v=4" width="50" />
@@ -1678,7 +1686,6 @@
         XIU2
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Baozhen-Yin">
         <img src="https://avatars.githubusercontent.com/u/55681721?v=4" width="50" />
@@ -1707,6 +1714,7 @@
         Wechat-ggGitHub
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/xiaoqi6666">
         <img src="https://avatars.githubusercontent.com/u/71040178?v=4" width="50" />
@@ -1714,15 +1722,12 @@
         xiaoqi6666
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/nice-people-frontend-community">
         <img src="https://avatars.githubusercontent.com/u/105715499?v=4" width="50" />
         <br />
         nice-people-frontend-community
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
