@@ -1012,7 +1012,7 @@
   </tr>
 </table>
 
-## Following <kbd>105</kbd>
+## Following <kbd>106</kbd>
 
 <table>
   <tr>
@@ -1765,11 +1765,27 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/JDFED">
+        <img src="https://avatars.githubusercontent.com/u/93707722?v=4" width="50" />
+        <br />
+        JDFED
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
       <a href="https://github.com/nice-people-frontend-community">
         <img src="https://avatars.githubusercontent.com/u/105715499?v=4" width="50" />
         <br />
         nice-people-frontend-community
       </a>
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
     </td>
   </tr>
 </table>
