@@ -1017,7 +1017,7 @@
   </tr>
 </table>
 
-## Following <kbd>114</kbd>
+## Following <kbd>116</kbd>
 
 <table>
   <tr>
@@ -1482,13 +1482,20 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/electron">
+        <img src="https://avatars.githubusercontent.com/u/13409222?v=4" width="50" />
+        <br />
+        electron
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
       <a href="https://github.com/LuckyWinty">
         <img src="https://avatars.githubusercontent.com/u/13686589?v=4" width="50" />
         <br />
         LuckyWinty
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/underfin">
         <img src="https://avatars.githubusercontent.com/u/14008915?v=4" width="50" />
@@ -1517,6 +1524,7 @@
         MisterBooo
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/lxchuan12">
         <img src="https://avatars.githubusercontent.com/u/15962539?v=4" width="50" />
@@ -1524,7 +1532,6 @@
         lxchuan12
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/JS-Hao">
         <img src="https://avatars.githubusercontent.com/u/16398869?v=4" width="50" />
@@ -1553,6 +1560,7 @@
         haixiangyan
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/answershuto">
         <img src="https://avatars.githubusercontent.com/u/17812136?v=4" width="50" />
@@ -1560,7 +1568,6 @@
         answershuto
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/yygmind">
         <img src="https://avatars.githubusercontent.com/u/18049290?v=4" width="50" />
@@ -1589,6 +1596,7 @@
         dashnowords
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/sisterAn">
         <img src="https://avatars.githubusercontent.com/u/19721451?v=4" width="50" />
@@ -1596,7 +1604,6 @@
         sisterAn
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/hyj1991">
         <img src="https://avatars.githubusercontent.com/u/19908330?v=4" width="50" />
@@ -1612,12 +1619,20 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/you-dont-need">
+        <img src="https://avatars.githubusercontent.com/u/21141794?v=4" width="50" />
+        <br />
+        you-dont-need
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/programmermark">
         <img src="https://avatars.githubusercontent.com/u/22030582?v=4" width="50" />
         <br />
         programmermark
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/woai3c">
         <img src="https://avatars.githubusercontent.com/u/22117876?v=4" width="50" />
@@ -1632,7 +1647,6 @@
         sl1673495
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/biaochenxuying">
         <img src="https://avatars.githubusercontent.com/u/24362914?v=4" width="50" />
@@ -1654,6 +1668,7 @@
         BoBoooooo
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/liyupi">
         <img src="https://avatars.githubusercontent.com/u/26037703?v=4" width="50" />
@@ -1668,7 +1683,6 @@
         SloppyJack
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Snailclimb">
         <img src="https://avatars.githubusercontent.com/u/29880145?v=4" width="50" />
@@ -1690,6 +1704,7 @@
         ConardLi
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/logcas">
         <img src="https://avatars.githubusercontent.com/u/30730325?v=4" width="50" />
@@ -1704,7 +1719,6 @@
         NervJS
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Amour1688">
         <img src="https://avatars.githubusercontent.com/u/31695475?v=4" width="50" />
@@ -1726,6 +1740,7 @@
         sunniejs
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/buuing">
         <img src="https://avatars.githubusercontent.com/u/36689704?v=4" width="50" />
@@ -1740,7 +1755,6 @@
         whylisa
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/sanyuan0704">
         <img src="https://avatars.githubusercontent.com/u/39261479?v=4" width="50" />
@@ -1762,6 +1776,7 @@
         GoodLuckAlien
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/0voice">
         <img src="https://avatars.githubusercontent.com/u/43104160?v=4" width="50" />
@@ -1776,7 +1791,6 @@
         avdance
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/DevCloudFE">
         <img src="https://avatars.githubusercontent.com/u/49863837?v=4" width="50" />
@@ -1798,6 +1812,7 @@
         XIU2
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/rayhomie">
         <img src="https://avatars.githubusercontent.com/u/63136891?v=4" width="50" />
@@ -1812,7 +1827,6 @@
         geekxh
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Wechat-ggGitHub">
         <img src="https://avatars.githubusercontent.com/u/68787183?v=4" width="50" />
@@ -1834,12 +1848,19 @@
         JDFED
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/nice-people-frontend-community">
         <img src="https://avatars.githubusercontent.com/u/105715499?v=4" width="50" />
         <br />
         nice-people-frontend-community
       </a>
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
