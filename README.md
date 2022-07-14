@@ -13,7 +13,7 @@
 | -- | -- | -- |
 | I am ne zha / Jeskson | [webVueBlog](https://github.com/webVueBlog) | Shenzhen, Guangdong |
 
-## Followers <kbd>138</kbd>
+## Followers <kbd>139</kbd>
 
 <table>
   <tr>
@@ -946,13 +946,20 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/Chen-xy">
+        <img src="https://avatars.githubusercontent.com/u/8254759?v=4" width="50" />
+        <br />
+        Chen-xy
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
       <a href="https://github.com/Cpanmac">
         <img src="https://avatars.githubusercontent.com/u/7643548?v=4" width="50" />
         <br />
         Cpanmac
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Candouble">
         <img src="https://avatars.githubusercontent.com/u/6704974?v=4" width="50" />
@@ -981,6 +988,7 @@
         luffysong
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/littlestone">
         <img src="https://avatars.githubusercontent.com/u/5649875?v=4" width="50" />
@@ -988,7 +996,6 @@
         littlestone
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/yangjiao2">
         <img src="https://avatars.githubusercontent.com/u/5582592?v=4" width="50" />
@@ -1009,8 +1016,6 @@
         <br />
         esin
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
