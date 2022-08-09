@@ -1058,7 +1058,7 @@
   </tr>
 </table>
 
-## Following <kbd>117</kbd>
+## Following <kbd>118</kbd>
 
 <table>
   <tr>
@@ -1898,13 +1898,18 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/labring">
+        <img src="https://avatars.githubusercontent.com/u/102226726?v=4" width="50" />
+        <br />
+        labring
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/nice-people-frontend-community">
         <img src="https://avatars.githubusercontent.com/u/105715499?v=4" width="50" />
         <br />
         nice-people-frontend-community
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
