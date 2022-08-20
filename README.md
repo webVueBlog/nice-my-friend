@@ -1058,7 +1058,7 @@
   </tr>
 </table>
 
-## Following <kbd>130</kbd>
+## Following <kbd>131</kbd>
 
 <table>
   <tr>
@@ -1977,6 +1977,13 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/sudongyuer">
+        <img src="https://avatars.githubusercontent.com/u/76603360?v=4" width="50" />
+        <br />
+        sudongyuer
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/JDFED">
         <img src="https://avatars.githubusercontent.com/u/93707722?v=4" width="50" />
         <br />
@@ -1990,12 +1997,21 @@
         labring
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/nice-people-frontend-community">
         <img src="https://avatars.githubusercontent.com/u/105715499?v=4" width="50" />
         <br />
         nice-people-frontend-community
       </a>
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
     </td>
   </tr>
 </table>
