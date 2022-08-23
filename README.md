@@ -1063,7 +1063,7 @@
   </tr>
 </table>
 
-## Following <kbd>132</kbd>
+## Following <kbd>133</kbd>
 
 <table>
   <tr>
@@ -1953,12 +1953,20 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/CesiumGS">
+        <img src="https://avatars.githubusercontent.com/u/54716382?v=4" width="50" />
+        <br />
+        CesiumGS
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/DataV-Team">
         <img src="https://avatars.githubusercontent.com/u/55119970?v=4" width="50" />
         <br />
         DataV-Team
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/rayhomie">
         <img src="https://avatars.githubusercontent.com/u/63136891?v=4" width="50" />
@@ -1966,7 +1974,6 @@
         rayhomie
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/geekxh">
         <img src="https://avatars.githubusercontent.com/u/64886238?v=4" width="50" />
@@ -1995,6 +2002,7 @@
         sudongyuer
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/JDFED">
         <img src="https://avatars.githubusercontent.com/u/93707722?v=4" width="50" />
@@ -2002,7 +2010,6 @@
         JDFED
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/labring">
         <img src="https://avatars.githubusercontent.com/u/102226726?v=4" width="50" />
@@ -2016,8 +2023,6 @@
         <br />
         nice-people-frontend-community
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
