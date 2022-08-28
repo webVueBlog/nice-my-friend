@@ -1063,7 +1063,7 @@
   </tr>
 </table>
 
-## Following <kbd>134</kbd>
+## Following <kbd>133</kbd>
 
 <table>
   <tr>
@@ -2004,13 +2004,6 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/sudongyuer">
-        <img src="https://avatars.githubusercontent.com/u/76603360?v=4" width="50" />
-        <br />
-        sudongyuer
-      </a>
-    </td>
-    <td width="150" align="center">
       <a href="https://github.com/JDFED">
         <img src="https://avatars.githubusercontent.com/u/93707722?v=4" width="50" />
         <br />
@@ -2030,6 +2023,8 @@
         <br />
         nice-people-frontend-community
       </a>
+    </td>
+    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
