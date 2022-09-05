@@ -1099,7 +1099,7 @@
   </tr>
 </table>
 
-## Following <kbd>134</kbd>
+## Following <kbd>135</kbd>
 
 <table>
   <tr>
@@ -2025,12 +2025,20 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/amplication">
+        <img src="https://avatars.githubusercontent.com/u/65107786?v=4" width="50" />
+        <br />
+        amplication
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/Wechat-ggGitHub">
         <img src="https://avatars.githubusercontent.com/u/68787183?v=4" width="50" />
         <br />
         Wechat-ggGitHub
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/xiaoqi6666">
         <img src="https://avatars.githubusercontent.com/u/71040178?v=4" width="50" />
@@ -2038,7 +2046,6 @@
         xiaoqi6666
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/JDFED">
         <img src="https://avatars.githubusercontent.com/u/93707722?v=4" width="50" />
@@ -2066,8 +2073,6 @@
         <br />
         nice-react-team
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
   </tr>
 </table>
