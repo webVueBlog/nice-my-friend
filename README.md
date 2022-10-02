@@ -1135,7 +1135,7 @@
   </tr>
 </table>
 
-## Following <kbd>141</kbd>
+## Following <kbd>142</kbd>
 
 <table>
   <tr>
@@ -2040,6 +2040,13 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
+      <a href="https://github.com/li-jia-nan">
+        <img src="https://avatars.githubusercontent.com/u/49217418?v=4" width="50" />
+        <br />
+        li-jia-nan
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/avdance">
         <img src="https://avatars.githubusercontent.com/u/49577129?v=4" width="50" />
         <br />
@@ -2067,6 +2074,7 @@
         XIU2
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/CesiumGS">
         <img src="https://avatars.githubusercontent.com/u/54716382?v=4" width="50" />
@@ -2074,7 +2082,6 @@
         CesiumGS
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/DataV-Team">
         <img src="https://avatars.githubusercontent.com/u/55119970?v=4" width="50" />
@@ -2103,6 +2110,7 @@
         amplication
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Wechat-ggGitHub">
         <img src="https://avatars.githubusercontent.com/u/68787183?v=4" width="50" />
@@ -2110,7 +2118,6 @@
         Wechat-ggGitHub
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/xiaoqi6666">
         <img src="https://avatars.githubusercontent.com/u/71040178?v=4" width="50" />
@@ -2139,6 +2146,7 @@
         labring
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/nice-people-frontend-community">
         <img src="https://avatars.githubusercontent.com/u/105715499?v=4" width="50" />
@@ -2146,15 +2154,12 @@
         nice-people-frontend-community
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/nice-react-team">
         <img src="https://avatars.githubusercontent.com/u/112629200?v=4" width="50" />
         <br />
         nice-react-team
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
