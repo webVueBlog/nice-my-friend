@@ -1166,7 +1166,7 @@
   </tr>
 </table>
 
-## Following <kbd>148</kbd>
+## Following <kbd>149</kbd>
 
 <table>
   <tr>
@@ -1963,6 +1963,13 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
+      <a href="https://github.com/Cosen95">
+        <img src="https://avatars.githubusercontent.com/u/26785201?v=4" width="50" />
+        <br />
+        Cosen95
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/MrXujiang">
         <img src="https://avatars.githubusercontent.com/u/28833634?v=4" width="50" />
         <br />
@@ -1990,6 +1997,7 @@
         CavsZhouyou
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Snailclimb">
         <img src="https://avatars.githubusercontent.com/u/29880145?v=4" width="50" />
@@ -1997,7 +2005,6 @@
         Snailclimb
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/huangguangda">
         <img src="https://avatars.githubusercontent.com/u/30596987?v=4" width="50" />
@@ -2026,6 +2033,7 @@
         NervJS
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Amour1688">
         <img src="https://avatars.githubusercontent.com/u/31695475?v=4" width="50" />
@@ -2033,7 +2041,6 @@
         Amour1688
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/qq449245884">
         <img src="https://avatars.githubusercontent.com/u/35094245?v=4" width="50" />
@@ -2062,6 +2069,7 @@
         whylisa
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/sanyuan0704">
         <img src="https://avatars.githubusercontent.com/u/39261479?v=4" width="50" />
@@ -2069,7 +2077,6 @@
         sanyuan0704
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/frontend9">
         <img src="https://avatars.githubusercontent.com/u/41631121?v=4" width="50" />
@@ -2098,6 +2105,7 @@
         ATQQ
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/ahabhgk">
         <img src="https://avatars.githubusercontent.com/u/42857895?v=4" width="50" />
@@ -2105,7 +2113,6 @@
         ahabhgk
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/0voice">
         <img src="https://avatars.githubusercontent.com/u/43104160?v=4" width="50" />
@@ -2134,6 +2141,7 @@
         DevCloudFE
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/koala-coding">
         <img src="https://avatars.githubusercontent.com/u/52817889?v=4" width="50" />
@@ -2141,7 +2149,6 @@
         koala-coding
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/XIU2">
         <img src="https://avatars.githubusercontent.com/u/54703944?v=4" width="50" />
@@ -2170,6 +2177,7 @@
         rayhomie
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/geekxh">
         <img src="https://avatars.githubusercontent.com/u/64886238?v=4" width="50" />
@@ -2177,7 +2185,6 @@
         geekxh
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/amplication">
         <img src="https://avatars.githubusercontent.com/u/65107786?v=4" width="50" />
@@ -2206,6 +2213,7 @@
         curly210102
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/JDFED">
         <img src="https://avatars.githubusercontent.com/u/93707722?v=4" width="50" />
@@ -2213,7 +2221,6 @@
         JDFED
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/labring">
         <img src="https://avatars.githubusercontent.com/u/102226726?v=4" width="50" />
@@ -2234,8 +2241,6 @@
         <br />
         nice-react-team
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
