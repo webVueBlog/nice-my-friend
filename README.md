@@ -13,7 +13,7 @@
 | -- | -- | -- |
 | I am ne zha / Jeskson | [webVueBlog](https://github.com/webVueBlog) | Shenzhen, Guangdong |
 
-## Followers <kbd>161</kbd>
+## Followers <kbd>162</kbd>
 
 <table>
   <tr>
@@ -925,6 +925,13 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/KRISACHAN">
+        <img src="https://avatars.githubusercontent.com/u/18380538?v=4" width="50" />
+        <br />
+        KRISACHAN
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/sishenhei7">
         <img src="https://avatars.githubusercontent.com/u/18361961?v=4" width="50" />
         <br />
@@ -945,6 +952,7 @@
         hu-qi
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/ickedesign">
         <img src="https://avatars.githubusercontent.com/u/17939675?v=4" width="50" />
@@ -952,7 +960,6 @@
         ickedesign
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/soramaster">
         <img src="https://avatars.githubusercontent.com/u/17927117?v=4" width="50" />
@@ -981,6 +988,7 @@
         YangJianFei
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/dustycn">
         <img src="https://avatars.githubusercontent.com/u/16053859?v=4" width="50" />
@@ -988,7 +996,6 @@
         dustycn
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/forest11">
         <img src="https://avatars.githubusercontent.com/u/15362123?v=4" width="50" />
@@ -1017,6 +1024,7 @@
         CrazyApple1
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/hanyangzao">
         <img src="https://avatars.githubusercontent.com/u/13430244?v=4" width="50" />
@@ -1024,7 +1032,6 @@
         hanyangzao
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/jjjfan">
         <img src="https://avatars.githubusercontent.com/u/13009177?v=4" width="50" />
@@ -1053,6 +1060,7 @@
         wangs1991
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/chenjf5">
         <img src="https://avatars.githubusercontent.com/u/10646804?v=4" width="50" />
@@ -1060,7 +1068,6 @@
         chenjf5
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/melody5417">
         <img src="https://avatars.githubusercontent.com/u/10040335?v=4" width="50" />
@@ -1089,6 +1096,7 @@
         867300915
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Chen-xy">
         <img src="https://avatars.githubusercontent.com/u/8254759?v=4" width="50" />
@@ -1096,7 +1104,6 @@
         Chen-xy
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Cpanmac">
         <img src="https://avatars.githubusercontent.com/u/7643548?v=4" width="50" />
@@ -1125,6 +1132,7 @@
         encorehe
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/syisunny">
         <img src="https://avatars.githubusercontent.com/u/5735654?v=4" width="50" />
@@ -1132,7 +1140,6 @@
         syisunny
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/luffysong">
         <img src="https://avatars.githubusercontent.com/u/5715805?v=4" width="50" />
@@ -1161,6 +1168,7 @@
         mhxy13867806343
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/aixinme">
         <img src="https://avatars.githubusercontent.com/u/3607893?v=4" width="50" />
@@ -1168,15 +1176,12 @@
         aixinme
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/esin">
         <img src="https://avatars.githubusercontent.com/u/69767?v=4" width="50" />
         <br />
         esin
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
