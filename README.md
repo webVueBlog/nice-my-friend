@@ -486,10 +486,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/NSX-Truth">
+      <a href="https://github.com/Pepsi34">
         <img src="https://avatars.githubusercontent.com/u/46698451?v=4" width="50" />
         <br />
-        NSX-Truth
+        Pepsi34
       </a>
     </td>
     <td width="150" align="center">
