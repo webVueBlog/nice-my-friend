@@ -522,10 +522,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/h-mo-pixel">
+      <a href="https://github.com/Hornasy">
         <img src="https://avatars.githubusercontent.com/u/44894251?v=4" width="50" />
         <br />
-        h-mo-pixel
+        Hornasy
       </a>
     </td>
     <td width="150" align="center">
