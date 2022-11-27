@@ -1238,7 +1238,7 @@
   </tr>
 </table>
 
-## Following <kbd>168</kbd>
+## Following <kbd>169</kbd>
 
 <table>
   <tr>
@@ -2438,6 +2438,13 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/noneplugin">
+        <img src="https://avatars.githubusercontent.com/u/104002411?v=4" width="50" />
+        <br />
+        noneplugin
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/nice-people-frontend-community">
         <img src="https://avatars.githubusercontent.com/u/105715499?v=4" width="50" />
         <br />
@@ -2450,8 +2457,6 @@
         <br />
         nice-react-team
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
