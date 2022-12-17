@@ -162,10 +162,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/qzjiajia">
+      <a href="https://github.com/CoderLJJ">
         <img src="https://avatars.githubusercontent.com/u/79403021?v=4" width="50" />
         <br />
-        qzjiajia
+        CoderLJJ
       </a>
     </td>
     <td width="150" align="center">
@@ -1238,7 +1238,7 @@
   </tr>
 </table>
 
-## Following <kbd>174</kbd>
+## Following <kbd>176</kbd>
 
 <table>
   <tr>
@@ -2423,13 +2423,20 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/tailwindlabs">
+        <img src="https://avatars.githubusercontent.com/u/67109815?v=4" width="50" />
+        <br />
+        tailwindlabs
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
       <a href="https://github.com/Wechat-ggGitHub">
         <img src="https://avatars.githubusercontent.com/u/68787183?v=4" width="50" />
         <br />
         Wechat-ggGitHub
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/lewkamtao">
         <img src="https://avatars.githubusercontent.com/u/68851669?v=4" width="50" />
@@ -2458,6 +2465,7 @@
         Tecvan-fe
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/JDFED">
         <img src="https://avatars.githubusercontent.com/u/93707722?v=4" width="50" />
@@ -2465,12 +2473,18 @@
         JDFED
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/labring">
         <img src="https://avatars.githubusercontent.com/u/102226726?v=4" width="50" />
         <br />
         labring
+      </a>
+    </td>
+    <td width="150" align="center">
+      <a href="https://github.com/Orbiter-Finance">
+        <img src="https://avatars.githubusercontent.com/u/102346948?v=4" width="50" />
+        <br />
+        Orbiter-Finance
       </a>
     </td>
     <td width="150" align="center">
@@ -2487,12 +2501,19 @@
         nice-people-frontend-community
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/nice-react-team">
         <img src="https://avatars.githubusercontent.com/u/112629200?v=4" width="50" />
         <br />
         nice-react-team
       </a>
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
