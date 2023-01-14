@@ -1274,7 +1274,7 @@
   </tr>
 </table>
 
-## Following <kbd>205</kbd>
+## Following <kbd>206</kbd>
 
 <table>
   <tr>
@@ -2704,12 +2704,20 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/vueuse">
+        <img src="https://avatars.githubusercontent.com/u/77578415?v=4" width="50" />
+        <br />
+        vueuse
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/Tecvan-fe">
         <img src="https://avatars.githubusercontent.com/u/84165678?v=4" width="50" />
         <br />
         Tecvan-fe
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/JDFED">
         <img src="https://avatars.githubusercontent.com/u/93707722?v=4" width="50" />
@@ -2717,7 +2725,6 @@
         JDFED
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/labring">
         <img src="https://avatars.githubusercontent.com/u/102226726?v=4" width="50" />
@@ -2746,12 +2753,21 @@
         nice-people-frontend-community
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/nice-react-team">
         <img src="https://avatars.githubusercontent.com/u/112629200?v=4" width="50" />
         <br />
         nice-react-team
       </a>
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
+    </td>
+    <td width="150" align="center">
     </td>
   </tr>
 </table>
