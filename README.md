@@ -680,10 +680,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/suzilong6">
+      <a href="https://github.com/suzilong666">
         <img src="https://avatars.githubusercontent.com/u/40620403?v=4" width="50" />
         <br />
-        suzilong6
+        suzilong666
       </a>
     </td>
     <td width="150" align="center">
@@ -2502,10 +2502,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/qq449245884">
+      <a href="https://github.com/husky-dot">
         <img src="https://avatars.githubusercontent.com/u/35094245?v=4" width="50" />
         <br />
-        qq449245884
+        husky-dot
       </a>
     </td>
     <td width="150" align="center">
