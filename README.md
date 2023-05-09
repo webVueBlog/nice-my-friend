@@ -702,10 +702,10 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
-      <a href="https://github.com/git-yx">
+      <a href="https://github.com/SquirrelYe">
         <img src="https://avatars.githubusercontent.com/u/41314389?v=4" width="50" />
         <br />
-        git-yx
+        SquirrelYe
       </a>
     </td>
     <td width="150" align="center">
