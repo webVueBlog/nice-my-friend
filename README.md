@@ -13,7 +13,7 @@
 | -- | -- | -- |
 | I am ne zha / Jeskson | [webVueBlog](https://github.com/webVueBlog) | Shenzhen, Guangdong |
 
-## Followers <kbd>187</kbd>
+## Followers <kbd>188</kbd>
 
 <table>
   <tr>
@@ -1220,6 +1220,13 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/BlueBubbleWei">
+        <img src="https://avatars.githubusercontent.com/u/12312253?v=4" width="50" />
+        <br />
+        BlueBubbleWei
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/wangs1991">
         <img src="https://avatars.githubusercontent.com/u/11343557?v=4" width="50" />
         <br />
@@ -1233,6 +1240,7 @@
         chenjf5
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/melody5417">
         <img src="https://avatars.githubusercontent.com/u/10040335?v=4" width="50" />
@@ -1240,7 +1248,6 @@
         melody5417
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/yehlv">
         <img src="https://avatars.githubusercontent.com/u/9897904?v=4" width="50" />
@@ -1269,6 +1276,7 @@
         Chen-xy
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Cpanmac">
         <img src="https://avatars.githubusercontent.com/u/7643548?v=4" width="50" />
@@ -1276,7 +1284,6 @@
         Cpanmac
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/ihtml5">
         <img src="https://avatars.githubusercontent.com/u/6822604?v=4" width="50" />
@@ -1305,6 +1312,7 @@
         encorehe
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/syisunny">
         <img src="https://avatars.githubusercontent.com/u/5735654?v=4" width="50" />
@@ -1312,7 +1320,6 @@
         syisunny
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/luffysong">
         <img src="https://avatars.githubusercontent.com/u/5715805?v=4" width="50" />
@@ -1341,6 +1348,7 @@
         LeoChowChina
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/mhxy13867806343">
         <img src="https://avatars.githubusercontent.com/u/4418166?v=4" width="50" />
@@ -1348,7 +1356,6 @@
         mhxy13867806343
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/aixinme">
         <img src="https://avatars.githubusercontent.com/u/3607893?v=4" width="50" />
@@ -1362,8 +1369,6 @@
         <br />
         esin
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
