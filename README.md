@@ -1377,7 +1377,7 @@
   </tr>
 </table>
 
-## Following <kbd>253</kbd>
+## Following <kbd>254</kbd>
 
 <table>
   <tr>
@@ -3038,6 +3038,13 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
+      <a href="https://github.com/zero2one3">
+        <img src="https://avatars.githubusercontent.com/u/62332696?v=4" width="50" />
+        <br />
+        zero2one3
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/cool-team-official">
         <img src="https://avatars.githubusercontent.com/u/62868950?v=4" width="50" />
         <br />
@@ -3065,6 +3072,7 @@
         geekxh
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/amplication">
         <img src="https://avatars.githubusercontent.com/u/65107786?v=4" width="50" />
@@ -3072,7 +3080,6 @@
         amplication
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/tailwindlabs">
         <img src="https://avatars.githubusercontent.com/u/67109815?v=4" width="50" />
@@ -3101,6 +3108,7 @@
         xiaoqi6666
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/swenes">
         <img src="https://avatars.githubusercontent.com/u/75016140?v=4" width="50" />
@@ -3108,7 +3116,6 @@
         swenes
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/curly210102">
         <img src="https://avatars.githubusercontent.com/u/76864176?v=4" width="50" />
@@ -3137,6 +3144,7 @@
         Tecvan-fe
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/RedisInsight">
         <img src="https://avatars.githubusercontent.com/u/87389211?v=4" width="50" />
@@ -3144,7 +3152,6 @@
         RedisInsight
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/firgia">
         <img src="https://avatars.githubusercontent.com/u/89120990?v=4" width="50" />
@@ -3173,6 +3180,7 @@
         Orbiter-Finance
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/noneplugin">
         <img src="https://avatars.githubusercontent.com/u/104002411?v=4" width="50" />
@@ -3180,7 +3188,6 @@
         noneplugin
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/nice-people-frontend-community">
         <img src="https://avatars.githubusercontent.com/u/105715499?v=4" width="50" />
@@ -3201,8 +3208,6 @@
         <br />
         wavesurfer-js
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
