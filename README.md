@@ -370,10 +370,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/icefiresong24">
+      <a href="https://github.com/icefire24">
         <img src="https://avatars.githubusercontent.com/u/67216778?v=4" width="50" />
         <br />
-        icefiresong24
+        icefire24
       </a>
     </td>
   </tr><tr>
